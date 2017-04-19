@@ -1,6 +1,6 @@
 # npmtest-frisby
 
-#### test coverage for  [frisby (v0.8.5)](http://frisbyjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-frisby.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-frisby) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-frisby.svg)](https://travis-ci.org/npmtest/node-npmtest-frisby)
+#### basic test coverage for  [frisby (v0.8.5)](http://frisbyjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-frisby.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-frisby) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-frisby.svg)](https://travis-ci.org/npmtest/node-npmtest-frisby)
 
 #### Frisby.js: REST API Endpoint Testing built on Jasmine
 
